@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e-nurse/static/css/main.d8aa3b35.css",
+    "main.js": "/e-nurse/static/js/main.bda83818.js",
+    "static/media/hero.svg": "/e-nurse/static/media/hero.6052e803d88adbd30ab3ab2ccf51fe48.svg",
+    "static/media/services.svg": "/e-nurse/static/media/services.6e348c4f248971aa8f325d1e9d698a17.svg",
+    "static/media/contact.svg": "/e-nurse/static/media/contact.1750180a85d55aa41d0799b5bc232ea5.svg",
+    "index.html": "/e-nurse/index.html",
+    "main.d8aa3b35.css.map": "/e-nurse/static/css/main.d8aa3b35.css.map",
+    "main.bda83818.js.map": "/e-nurse/static/js/main.bda83818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8aa3b35.css",
+    "static/js/main.bda83818.js"
+  ]
+}
